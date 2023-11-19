@@ -1156,15 +1156,16 @@ Portfolio
   margin-top: 0px;
 }
 
-.our-portfolio .section-heading h4 {
+.our-portfolio .section-heading p {
   text-align: center;
-  margin: 0px 10px 0px 10px; /* Adjust the left and right margin */
+  margin: 0px 10px 0px 10px;
+  font-size: 1.3rem;
   margin-bottom: 120px;
   position: relative;
   z-index: 1;
 }
 
-.our-portfolio .section-heading h4 em {
+.our-portfolio .section-heading p em {
   color: #03a4ed !important;
 }
 
