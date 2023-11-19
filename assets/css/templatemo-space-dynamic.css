@@ -1172,6 +1172,11 @@ Portfolio
   position: relative;
 }
 
+.our-portfolio .item .showed-content {
+  min-width: 300px;
+  min-height: 200px;
+}
+
 .our-portfolio .item:hover .hidden-content {
   top: -100px;
   opacity: 1;
