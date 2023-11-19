@@ -1174,6 +1174,7 @@ Portfolio
 
 .our-portfolio .item .showed-content {
   min-height: 200px;
+  max-height: 200px;
 }
 
 .our-portfolio .item:hover .hidden-content {
